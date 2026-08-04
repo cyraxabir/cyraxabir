@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-cyraxabir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cyraxabir)
 [![Email](https://img.shields.io/badge/Email-hafiz15--5760%40diu.edu.bd-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafiz15-5760@diu.edu.bd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Nafiul%20Hafiz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nafiul-hafiz-146460134/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-01968200250-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801968200250)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801968200250)
 [![Portfolio](https://img.shields.io/badge/Portfolio-nafiul.onrender.com-2EA043?style=for-the-badge&logo=render&logoColor=white)](https://nafiul.onrender.com)
 
 </div>
