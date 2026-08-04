@@ -9,7 +9,7 @@ identity, and MLOps systems that stay up and stay honest.
 ---
 
 ### 🔧 What I work on
-- **Platform Engineering** — self-hosted Kubernetes (k0s/k3s) and Docker-based stacks in production
+- **Platform Engineering** — self-hosted Kubernetes, Docker-based stacks in production
 - **Security Operations** — SOC tooling, detection, and automated triage pipelines
 - **Identity & Access** — Keycloak-based IdP deployments for enterprise/government platforms
 - **MLOps** — GPU-backed model serving, RAG pipelines, and AI-assisted infra tooling
