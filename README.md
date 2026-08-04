@@ -14,11 +14,7 @@
 
 ---
 
-### 🧭 About Me
-
-I'm a **DevSecOps / Platform Engineer** at **Business Automation, High Tech Park, Rajshahi**, where I hold hands-on, production-authorized ownership of security and infrastructure for **multiple national government and international platforms**, serving **millions of requests per day**.
-
-I don't just build infrastructure — I carry production risk end-to-end: incident response, threat detection, and remediation are mine, not something I escalate away.
+### 🧭 About 
 
 - 🛡️ Detected, triaged, and mitigated a live **multi-IP Layer 7 DDoS attack** by correlating Cloudflare edge logs with Wazuh SIEM in real time
 - 🔐 Authored VAPT reports across multiple government platforms, including a **critical CVSS 9.1 authentication-bypass finding**, responsibly disclosed
