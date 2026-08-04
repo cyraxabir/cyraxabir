@@ -115,15 +115,6 @@
 | **ML/Anomaly Detection** | Two-track detection pipeline (OpenSearch RCF + custom PyOD) for volumetric & per-IP auth anomalies |
 | **SSO / IAM** | Diagnosed and resolved a full auth/SSO cascade outage across `/login`, `/oauth/authorize`, `/sso/login` |
 
----
-
-### 🎓 Background
-
-- **B.Sc. in Computer Science & Engineering** — Daffodil International University, Dhaka (2015–2019)
-- **Data Science & Machine Learning Certification** — Sotyan Bose Science Club, BUET (2020)
-- **Cybersecurity Ethical Hacking Certification** — Web Security (2022)
-
----
 
 <div align="center">
 
