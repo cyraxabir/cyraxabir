@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=680&lines=Senior+DevSecOps+%2F+Platform+Engineer;Kubernetes+%7C+Security+%7C+CI%2FCD+%7C+AI-Driven+Automation;Owning+Production.+Owning+Risk.+Owning+Uptime." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=680&lines=DevSecOps+%2F+Platform+Engineer;Kubernetes+%7C+Security+%7C+CI%2FCD+%7C+AI-Driven+Automation;Owning+Production.+Owning+Risk.+Owning+Uptime." alt="Typing SVG" />
 
 ### Production-authorized DevSecOps engineer running national-scale government infrastructure — from Kubernetes and CI/CD to VAPT and real-time DDoS defense.
 
@@ -30,7 +30,7 @@
 - 🔬 Building an ML-based anomaly detection layer on top of Wazuh + OpenSearch for a high-traffic government platform
 - 🔒 Running continuous SOC monitoring and VAPT across production government systems
 - 🧠 Experimenting with self-hosted LLM agents (Ollama, Open WebUI) for internal DevSecOps automation
-- 📡 Open to **Senior Platform Engineer / DevSecOps / SRE** opportunities
+- 📡 Open to **Platform Engineer / DevSecOps / SRE** opportunities
 
 ---
 
