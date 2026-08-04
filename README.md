@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Nafiul Hafiz</h1>
 <h3 align="center">DevSecOps Engineer | Kubernetes • SIEM • Identity & Access • CI/CD</h3>
 
 <p align="center">
@@ -69,19 +69,13 @@
 
 ---
 
-### 🎓 Certifications
-<!-- List real, earned certs only. Example format: -->
-- [ ] [Certification Name] — [Issuing Body], [Year]
 
-### 🐞 Security Research
-<!-- Only list bug bounty / CVE credits once publicly disclosed / permitted by the program -->
-- [Platform, e.g. HackerOne] profile: [link]
 
 ---
 
 ### 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://www.linkedin.com/in/md-nafiul-hafiz-146460134)](#)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](#)
 
 ---
