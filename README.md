@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nafiul Hafiz (Abir) 👋</h1>
+<h1 align="center">Hi, I'm Nafiul Hafiz 👋</h1>
 <h3 align="center">DevSecOps & Platform Engineer</h3>
 
 <p align="center">
