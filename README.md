@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2EA043&center=true&vCenter=true&width=760&lines=DevOps+%7C+Platform+%7C+DevSecOps+Engineer;Kubernetes+%7C+Terraform+%7C+GitOps+%7C+CI%2FCD;Cloud-Native+Infrastructure+%7C+SRE;Automating+Infrastructure.+Engineering+Reliability." alt="DevOps Platform Engineer" />
 
-# Md. Nafiul Hafiz
+# Nafiul Hafiz
 
 ### DevOps Engineer | Platform Engineer | DevSecOps Engineer
 
