@@ -78,7 +78,7 @@ I support **10+ government and enterprise platforms**, including high-traffic pu
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
 
 
-### 🗄️ Databases, Messaging & Data Workflows & Distributed Storage
+### 🗄️ Databases, Messaging & Data Workflows, Distributed Storage
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -96,6 +96,8 @@ I support **10+ government and enterprise platforms**, including high-traffic pu
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding%20Assistant-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-AI%20Agents-7B42BC?style=flat-square)
 
 ### 🔐 Security Engineering
 
