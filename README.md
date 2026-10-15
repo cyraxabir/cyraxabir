@@ -56,6 +56,8 @@ I support **10+ government and enterprise platforms**, including high-traffic pu
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![CycloneDX](https://img.shields.io/badge/SBOM-CycloneDX-304FFE?style=flat-square&logo=cyclonedx&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aqua&logoColor=white)
+![Dependency-Track](https://img.shields.io/badge/Dependency--Track-SBOM%20Analysis-00599C?style=flat-square)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
