@@ -101,6 +101,9 @@ I support **10+ government and enterprise platforms**, including high-traffic pu
 
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
+![Acunetix](https://img.shields.io/badge/Acunetix-Web%20Vulnerability%20Scanning-ED1C24?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Assessment-00A88F?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=flat-square&logo=nmap&logoColor=white)
 ![Cloud Security](https://img.shields.io/badge/Cloud%20Security-00599C?style=flat-square)
 ![VAPT](https://img.shields.io/badge/Vulnerability%20Assessment-B22222?style=flat-square)
 
