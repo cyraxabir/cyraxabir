@@ -4,13 +4,13 @@
 
 # Nafiul Hafiz
 
-### DevOps Engineer | Platform Engineer | DevSecOps Engineer
+### DevSecOps Engineer | DevOps Engineer | Platform Engineer 
 
 **Building, automating, securing, and operating production-grade cloud-native infrastructure.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-cyraxabir-181717?style=for-the-badge&logo=github)](https://github.com/cyraxabir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-nafiul-hafiz-146460134/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hafiz15-5760@diu.edu.bd)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.nafiulhafiz@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2EA043?style=for-the-badge&logo=render)](https://nafiul.onrender.com)
 
 </div>
