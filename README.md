@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a DevSecOps / Platform Engineer with hands-on experience designing, provisioning, securing, and operating production infrastructure across government and enterprise environments.
+I'm a DevSecOps Engineer with hands-on experience designing, provisioning, securing, and operating production infrastructure across government and enterprise environments.
 
 My focus is on **Kubernetes, Infrastructure as Code, GitOps, CI/CD automation, cloud infrastructure, observability,security compliance and production reliability**. I bring security engineering into the infrastructure lifecycle, helping teams ship software securely while maintaining operational stability.
 
