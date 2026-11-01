@@ -43,11 +43,32 @@ I support **10+ government and enterprise platforms**, including high-traffic pu
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🏗️ Infrastructure as Code & Configuration Management
+### 🔐 Security Engineering
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
+![Acunetix](https://img.shields.io/badge/Acunetix-Web%20Vulnerability%20Scanning-ED1C24?style=flat-square)
+![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Assessment-00A88F?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-00599C?style=flat-square)
+![OSINT](https://img.shields.io/badge/OSINT-Open%20Source%20Intelligence-2E8B57?style=flat-square)
+![VAPT](https://img.shields.io/badge/VAPT-Penetration%20Testing-B22222?style=flat-square&logo=kalilinux&logoColor=white)
+
+### 🌐 Networking, Identity 
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+
+### 🤖 AI Infrastructure & Intelligent Automation
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding%20Assistant-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-AI%20Agents-7B42BC?style=flat-square)
 
 ### 🚀 CI/CD, GitOps & Automation
 
@@ -70,12 +91,12 @@ I support **10+ government and enterprise platforms**, including high-traffic pu
 ![Wazuh](https://img.shields.io/badge/Wazuh-3AB6E1?style=flat-square&logo=wazuh&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 
-### 🌐 Networking, Identity 
 
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![HAProxy](https://img.shields.io/badge/HAProxy-106DA9?style=flat-square&logo=haproxy&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+### 🏗️ Infrastructure as Code & Configuration Management
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
 
 
 ### 🗄️ Databases, Messaging & Data Workflows, Distributed Storage
@@ -89,26 +110,6 @@ I support **10+ government and enterprise platforms**, including high-traffic pu
 ![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-Data%20Flow-017CEE?style=flat-square&logo=apachenifi&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=flat-square&logo=nextcloud&logoColor=white)
-
-### 🤖 AI Infrastructure & Intelligent Automation
-
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI%20Coding%20Assistant-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-AI%20Agents-7B42BC?style=flat-square)
-
-### 🔐 Security Engineering
-
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
-![Acunetix](https://img.shields.io/badge/Acunetix-Web%20Vulnerability%20Scanning-ED1C24?style=flat-square)
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Assessment-00A88F?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Cloud Security](https://img.shields.io/badge/Cloud%20Security-00599C?style=flat-square)
-![OSINT](https://img.shields.io/badge/OSINT-Open%20Source%20Intelligence-2E8B57?style=flat-square)
-![VAPT](https://img.shields.io/badge/VAPT-Penetration%20Testing-B22222?style=flat-square&logo=kalilinux&logoColor=white)
 
 ---
 
