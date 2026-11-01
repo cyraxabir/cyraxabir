@@ -4,7 +4,7 @@
 
 # Nafiul Hafiz
 
-### DevSecOps Engineer | DevOps Engineer | Platform Engineer 
+### DevSecOps | Cybersecurity | Platform Engineer 
 
 **Building, automating, securing, and operating production-grade cloud-native infrastructure.**
 
