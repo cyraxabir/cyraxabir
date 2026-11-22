@@ -121,13 +121,6 @@ I support **10+ government and enterprise platforms**, including high-traffic pu
 - Coordinate application deployments across government and enterprise platforms.
 - Use GitOps workflows to improve deployment consistency and operational traceability.
 
-### 🗄️ Object Storage & Security
-
-- Design and operate **distributed, S3-compatible MinIO storage architectures** using multi-node, multi-drive deployments for production workloads.
-- Integrate **OAuth 2.0 / OpenID Connect (OIDC)** with Keycloak to support centralized identity and access management.
-- Apply storage security practices covering authentication, authorization, access policies, secure service integration, and controlled object access.
-- Work with S3-compatible APIs, presigned URLs, and Security Token Service (STS) workflows for application-to-storage integration.
-
 ### 🔄 CI/CD & Secure Software Delivery
 
 - Build and maintain automated CI/CD pipelines for application delivery.
